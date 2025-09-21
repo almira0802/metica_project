@@ -1,1 +1,1 @@
-# metica_project
+# metrica_project
